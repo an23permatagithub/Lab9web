@@ -31,7 +31,8 @@ Berikut tampilan setelah diimplementasikan ke pada lab8_php_database<br>
 ![Gambar](Gambar/Gambar9.png)<br>
 
 ### Berikut adalah tugas untuk pratikum 10 pertemuan 11<br>
-![Gambar]()<br>
+![Gambar](Gambar/Gambar1..png)<br>
+
 
 
 
