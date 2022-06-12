@@ -30,9 +30,22 @@ Berikut tampilannya<br>
 Berikut tampilan setelah diimplementasikan ke pada lab8_php_database<br>
 ![Gambar](Gambar/Gambar9.png)<br>
 
-### Berikut adalah tugas untuk pratikum 10 pertemuan 11<br>
+### Berikut ini adalah tugas untuk pratikum 10 pertemuan 11<br>
 ![Gambar](Gambar/Gambar10.png)<br>
 
+1. Selanjutnya kita akan membuat file mobil.php seperti berikut ini<br>
+![Gambar](Gambar/Gambar11.png)<br>
+Berikut ini adalah tampilannya<br>
+![Gambar](Gambar/Gambar12.png)<br>
+2. Selanjutnya kita akan membuat file form.php seperti berikut ini<br>
+![Gambar](Gambar/Gambar13.png)<br>
+3. Selanjutnya kita buat lagi file form_input.php seperti berikut ini<br>
+![Gambar](Gambar/Gambar14.png)<br>
+Berikut ini tampilannya<br>
+![Gambar](Gambar/Gambar15.png)<br>
+
+Sekian dari saya<br>
+Terimakasih........<br>
 
 
 
