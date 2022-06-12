@@ -6,7 +6,7 @@ Nama : Antini permatasari<br>
 NIM  : 312010095<br>
 Kelas: TI.20.B.1<br>
 
-### Berikut adalah tugas untuk praktikum 9 pertemuan 11<br>
+### Berikut ini adalah soal tugas praktikum 9 pertemuan 11<br>
 ![Gambar](Gambar/Gambar1.png)<br>
 
 1. Seperti biasa kita buka dulu xampp controlnya<br>
